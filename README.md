@@ -21,7 +21,7 @@ git clone https://github.com/darlingnice/api-First-Django-api.git
 cd api-First-Django-api
 2. Create a virtual environment (optional but recommended):
    python -m venv venv  # On Windows
-   python -m venv venv  # On Unix/Mac
+   python3 -m venv venv  # On Unix/Mac
    
 source venv/bin/activate # On Unix/Mac
 venv\Scripts\activate.bat # On Windows
